@@ -80,7 +80,7 @@ class LoginForm extends Component {
 
     //  Validating Email and Password
     if (
-      !this.validateEmail(this.state.email) ||
+      !this.validateEmail(this.state.email) &&
       !this.validatePassword(this.state.password)
     ) {
       return;
