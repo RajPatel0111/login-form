@@ -1,0 +1,72 @@
+.addBorder
+{
+    border-style: solid;
+    width: 500px;
+}
+
+.heading{
+    font-family: 'Roboto';
+    font-size:40px;
+    margin-bottom: -10px;
+}
+.divison
+{
+    height: 40px;
+    width: 300px;
+    margin-top: 0px;
+    padding-top: 0%;
+    display: inline-block;
+}
+.divison-style{
+    font-weight: bold;
+    margin-bottom: 0px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 95px;
+    font-family: 'Roboto';
+}
+.remember-me-style{
+    margin-left: -165px;  
+    font-size: 20px;
+    font-family: 'Roboto'; 
+}
+
+.button-style{
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    font-family: 'Roboto';
+    background-color: darkgreen;
+    color:white;
+}
+
+.link1-style{
+    font-family: 'Roboto';
+}
+
+.link2-style{
+    font-family: 'Roboto';
+    margin-top: -5px;
+}
+
+.link3-style{
+    font-family: 'Roboto';
+    margin-top: -5px;
+}
+
+
+.firstvalidationstyle{
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: red;
+    margin-top: 0px;
+    margin-left: -145px;
+}
+
+.secondvalidationstyle{
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: red;
+    margin-top: 0px;
+    margin-left: 30px;
+}
