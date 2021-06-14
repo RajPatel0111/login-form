@@ -136,7 +136,6 @@ class LoginForm extends Component {
               onChange={(event) => {
                 this.onChange(event);
               }}
-              placeholder="Enter your Email ID"
               className="divison"
             />
             {this.state.wrongEmail ? (
@@ -153,7 +152,6 @@ class LoginForm extends Component {
               onChange={(event) => {
                 this.onChange(event);
               }}
-              placeholder="Enter your Password"
               className="divison"
             />
             {this.state.wrongPassword ? (
